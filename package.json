@@ -1,6 +1,6 @@
 {
-  "name": "grilli-restaurant",
-  "version": "0.1.0",
+  "name": "nibbana-grill",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@ionic/react": "^8.5.2",
