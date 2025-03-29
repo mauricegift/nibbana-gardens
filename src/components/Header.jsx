@@ -73,7 +73,7 @@ const Header = () => {
               Shell, Eldoret-Nakuru Highway 
             </address>
             <p className="body-4 navbar-text">Open: 9.00 am - 5.30pm</p>
-            <a href="mailto:booking@grilli.com" className="body-4 sidebar-link">booking@nibbanagardens.com</a>
+            <a href="mailto:booking@nibbanagardens.com" className="body-4 sidebar-link">booking@nibbanagardens.com</a>
             <div className="separator"></div>
             <p className="contact-label">Booking Requests Line</p>
             <a href="tel:+254711111111" className="body-1 contact-number hover-underline">
